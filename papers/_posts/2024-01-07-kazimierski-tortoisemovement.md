@@ -1,0 +1,15 @@
+---
+layout: paper
+title: Description of the movement of the Endangered Chaco tortoise Chelonoidis chilensis
+image: /images/papers/kazimierski-tortoisemov2024.png
+authors: Kazimierski L D, Kubisch E, Joseph J, Echave M E, Catalano N, Abramson G, Laneri K.
+year: 2024
+ref: accepted in Amphibian and reptile conservation
+journal: "ARC."
+pdf: /pdfs/papers/kazimierski-tortoisemov.pdf
+#doi:
+---
+
+# Abstract
+
+The Chaco tortoise Chelonoidis chilensis is the southernmost species of land tortoise in the world. This species is currently listed as Endangered not only due to habitat reduction and destruction, but also because of its value in the illegal pet trade. As both a grazer and a seed disperser, it serves as a keystone species in the dry ecosystems it inhabits. Despite its endangered status and important ecological role, there is limited information on the movement patterns of C. chilensis to date. In this work, we aimed to investigate the movement characteristics of this species over two seasons and both sexes, using three complementary tracking techniques, including a device designed and developed by our team. To capture the most comprehensive view of movement patterns, we used three complementary tracking techniques, each providing distinct strengths in characterizing spatial or temporal aspects of movement: spool-and-line, radiotelemetry, and GPS-based tracking. We studied their movements over two seasons (spring 2020 and summer 2021), in their natural habitat near the city of San Antonio Oeste, Río Negro, Argentina. We tracked 7 individuals (4 males and 3 females) with the spool-and-line technique, 12 (6 males and 6 females) with radiotelemetry, and 10 (4 males and 6 females) with the GPS-based system. We estimated their daily home range (DHR) and speed of movement. We also measured the tortuosity of the walks and characterized their mean square displacement. We found that C. chilensis remains within a DHR of 864 +- 283 m2 (spring season) and 1034 +- 298 m2 (summer season). We also found that the most probable value of their velocity is 0.4 +- 0.1 m/min, with a median value of 0.6 +- 0.1 m/min, and that the walks are characterized by bouts of foraging during movement, with periods of time spent exploring new spaces while also maintaining activity within their home ranges. In particular, we observed that C. chilensis can travel as much as 400 meters in one day. The complementarity of our monitoring techniques allows us to study and characterize the movement of this species at different scales: with the high spatial resolution of the spool-and-line technique, we can describe tortuosity, while with GPS-based and radiotelemetry techniques we can describe trajectories with fine temporal resolution. To better understand how these animals move, the distances they are capable of traveling daily, and how these results depend on the season is relevant for making conservation decisions, considering the significant impact that habitat fragmentation, among other factors, can have on their environment.
