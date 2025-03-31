@@ -22,3 +22,6 @@ gem 'webrick'
 
 # gzipping assets
 gem 'jekyll-gzip'
+
+#agregado Kari
+gem 'jekyll-sass-converter', '~> 2.0'
