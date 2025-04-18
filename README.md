@@ -1,4 +1,4 @@
-# bedford lab research
+# karina laneri home page (based in bedford lab page)
 
 ## Build site
 
