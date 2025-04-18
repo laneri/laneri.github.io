@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8"/>
+	<title>Infection fronts in randomly varying transmission-rate media</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="Karina Laneri home page" href="http://localhost:4000/feed.xml">
+
+  <!-- Customized Bootstrap + Font Awesome + Solarized -->
+  <link href="/css/style.css" rel="stylesheet" media="screen">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/images/favicon.png"/>
+
+	<!-- Typekit -->
+	<script>
+	  (function(d) {
+		var config = {
+		  kitId: 'xeu8jut',
+		  scriptTimeout: 3000
+		},
+		h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  })(document);
+	</script>
+
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-26244371-2', 'bedford.io');
+		ga('send', 'pageview');
+
+	</script>
+
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+	<div id="header">
+		<nav class="navbar navbar-expand-md navbar-light bg-navbar">
+			<div class="container">
+				
+				<a class="navbar-brand" href="/">
+					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					bedford lab
+				</a>
+				
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/blog/">blog</a>
+						</li>
+						
+						<li class="nav-link active">
+						
+						<a class="mx-1" href="/papers/">papers</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/projects/">projects</a></li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/team/">team</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div class="container mt-4">
+
+	<div class="row">
+	<div class="col-lg-12">
+		
+		<img class="pull-left pad-right media-object d-none d-sm-block" src="/images/papers/zagarra-infectionfronts2024.png">
+		<img width=85 class="float-left pad-right d-block d-sm-none" src="/images/papers/zagarra-infectionfronts2024.png">
+		
+		<div class="titlebox">
+			<div class="title">
+				Infection fronts in randomly varying transmission-rate media
+			</div>
+			<p>
+			<div class="smallhead">
+				Zagarra R, Laneri K, Kolton A.
+				2024.
+				Physical Review E
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-lg-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+			
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="/pdfs/papers/zagarra-infectionfronts.pdf">zagarra-infectionfronts.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				<a class="off" href="https://doi.org/10.1103/PhysRevE.110.034308">10.1103/PhysRevE.110.034308</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			
+		</div>
+	</div>
+	<div class="col-lg-8">
+		<div class="post">
+			<h1 id="abstract">Abstract</h1>
+
+<p>We numerically investigate the geometry and transport properties of infection fronts within the spatial SIR
+model in two dimensions. The model incorporates short-range correlated quenched random transmission rates.
+Our findings reveal that the critical average transmission rate for the steady-state propagation of the infection is
+overestimated by the naive mean-field homogenization. Furthermore, we observe that the velocity, profile, and
+harmfulness of the fronts, given a specific average transmission, are sensitive to the details of randomness.
+In particular, we find that the harmfulness of the front is larger the more uniform the transmission rate is,
+suggesting potential optimization in vaccination strategies under constraints like fixed average-transmission rates
+or limited vaccine resources. The large-scale geometry of the advancing fronts presents nevertheless robust
+universal features and, for a statistically isotropic and short-range correlated disorder, we get a roughness
+exponent α ≈ 0.42 ± 0.10 and a dynamical exponent z ≈ 1.6 ± 0.10, which are roughly compatible with the
+one-dimensional Kardar-Parisi-Zhang (KPZ) universality class. We find that the KPZ term and the disorder-
+induced effective noise are present and have a kinematic origin.</p>
+
+		</div>
+	</div>
+	<div class="col-lg-1"></div>
+</div>
+
+
+	</div>
+
+	<div id="footer"><span style="display:none">foo</span></div>
+
+</body>
+</html>
