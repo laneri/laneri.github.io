@@ -3,7 +3,7 @@ layout: member
 title: Luciano Lopez Bertaza
 position: Physics student Investigation Course
 #github: 
-#image: /images/team/philippa-steinberg.jpg
+image: /images/team/luciano-bertaza.jpg
 alumni: false
 collaborator: false
 ---
