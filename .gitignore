@@ -1,18 +1,18 @@
 # Environment files
-environment*
+#environment*
 
 # Compiled site
-_site/
+#_site/
 
 # Projects
-projects/
-!projects/index.html
+#projects/
+#!projects/index.html
 
 # Jekyll build process
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
+#.jekyll-cache
+#.jekyll-metadata
+#.sass-cache
 
 # Other files
-.DS_Store
-.tweet-cache
+#.DS_Store
+#.tweet-cache
