@@ -1,6 +1,6 @@
 name: Karina Laneri home page
 description: Science and reasearch on Complex Systems from CONICET at Bariloche, Argentina. 
-url: http://laneri.github.io
+url: https://laneri.github.io
 
 markdown: kramdown
 permalink: /:categories/:title/
